@@ -1,0 +1,103 @@
+@font-face {
+  font-family: wf_f19c438eaf5d4c7e9a1cf261b;
+  src: url("https://static.wixstatic.com/ufonts/4db307_f19c438eaf5d4c7e9a1cf261b5913e17/woff/file.woff") format("woff"), url("https://static.wixstatic.com/ufonts/4db307_f19c438eaf5d4c7e9a1cf261b5913e17/woff2/file.woff2") format("woff2"), url("https://static.wixstatic.com/ufonts/4db307_f19c438eaf5d4c7e9a1cf261b5913e17/ttf/file.ttf") format("ttf");
+}
+
+@font-face {
+  font-family: wf_2e2bf17c1eb843be937f5d02a;
+  src: url("https://static.wixstatic.com/ufonts/4db307_2e2bf17c1eb843be937f5d02a0929478/woff/file.woff") format("woff"), url("https://static.wixstatic.com/ufonts/4db307_2e2bf17c1eb843be937f5d02a0929478/woff2/file.woff2") format("woff2"), url("https://static.wixstatic.com/ufonts/4db307_2e2bf17c1eb843be937f5d02a0929478/ttf/file.ttf") format("ttf");
+}
+
+* {
+  border-radius: 2.5px !important;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif !important;
+  background: url("https://static.wixstatic.com/media/4db307_77544411b3204786af4fa9312c2e1995~mv2_d_2560_1600_s_2.jpg/v1/fill/w_1920,h_1200,al_c,q_85,usm_0.66_1.00_0.01/4db307_77544411b3204786af4fa9312c2e1995~mv2_d_2560_1600_s_2.webp") no-repeat;
+  background-size: cover !important;
+}
+
+.navbar-light {
+  border-bottom: rgba(255, 150, 7, 0.8) 3px solid !important;
+}
+
+.navbar-dark {
+  border-bottom: rgba(255, 193, 7, 0.8) 3px solid !important;
+  background-color: #343a40;
+}
+
+.bg-primary {
+  background-color: rgba(0, 123, 255, 0.8) !important;
+}
+
+.bg-light {
+  background-color: rgba(255, 255, 255, 0.8) !important;
+}
+
+.bg-dark {
+  background-color: rgba(52, 58, 64, 0.8) !important;
+}
+
+.jebr-logo {
+  width: 30px;
+  height: 30px;
+}
+
+.text-white {
+  color: white !important;
+}
+
+.text-white:hover {
+  color: black !important;
+}
+
+.material-icons {
+  font-size: 20px !important;
+}
+
+#welcome h5,
+#welcome h4,
+#welcome h3,
+#welcome h2,
+#welcome h1,
+#welcome p,
+#most-popular h5,
+#most-popular h4,
+#most-popular h3,
+#most-popular h2,
+#most-popular h1,
+#most-popular p {
+  color: white !important;
+}
+
+#welcome {
+  margin-top: 12.5%;
+}
+
+#most-popular {
+  margin-top: 5%;
+}
+
+@media screen and (max-width: 768px) {
+  #welcome {
+    margin-top: 15% !important;
+  }
+}
+
+.mp-header {
+  text-align: center !important;
+}
+
+.no-bg {
+  background: rgba(0, 0, 0, 0.5) !important;
+}
+
+.card-img-top {
+  height: 275px !important;
+  padding-bottom: 5% !important;
+}
+
+.footer-text {
+  font-size: 12px !important;
+}
