@@ -1,0 +1,45 @@
+/* Default CSS */
+body {
+    background-image: url(../img/main-section.png) !important;
+    background-size: cover !important; 
+}
+
+.mt-2 {
+    margin-top: 3% !important;
+}
+
+.p-2 {
+    padding: 2% !important;
+}
+
+.p-2 h4 {
+    margin-bottom: 1.5% !important;
+}
+
+/* Blog */
+#blog {
+
+}
+
+.container {
+    background: rgba(0, 0, 0, .3);
+}
+
+/* Custom Card */
+.custom-card {
+    padding: 1.5% !important;
+    background: rgba(0, 0, 0, .5);
+    word-wrap: break-word;
+}
+
+.custom-card-body h5 {
+    font-size: 16px !important;
+}
+
+.custom-card-body p {
+    font-size: 10px !important;
+}
+
+.custom-card-body h6 {
+    font-size: 8px !important;
+}
