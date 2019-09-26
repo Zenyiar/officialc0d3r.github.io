@@ -17,8 +17,8 @@ for (i = 0; i < data.length; i++){
         <div class="custom-card">
             <div class="custom-card-body">
                 <h5>${data[i].blogTitle}</h5>
+                <h6><b>${data[i].blogDate}</b></h6>
                 <p>${data[i].blogBody}</p>
-                <h6>${data[i].blogDate}</h6>
             </div>
         </div>
     `;
