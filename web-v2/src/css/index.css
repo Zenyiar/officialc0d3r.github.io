@@ -33,13 +33,13 @@ body {
 }
 
 .custom-card-body h5 {
-    font-size: 16px !important;
+    font-size: 20px !important;
 }
 
 .custom-card-body p {
-    font-size: 10px !important;
+    font-size: 14px !important;
 }
 
 .custom-card-body h6 {
-    font-size: 8px !important;
+    font-size: 12px !important;
 }
