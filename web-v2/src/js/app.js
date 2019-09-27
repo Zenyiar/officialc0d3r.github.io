@@ -1,5 +1,10 @@
 var data = [
     {
+        blogTitle: 'Wow nice background',
+        blogBody: 'Updated the background again so it would show if the image went down or wouldnt load.',
+        blogDate: 'September 27th, 2019 @ 10:32 AM'
+    },
+    {
         blogTitle: 'Updated this page!',
         blogBody: 'I updated the background and font sizes of this page + added time to date posted! Also, put the date above the body text and made it bold.',
         blogDate: 'Edited on September 26th, 2019 @ 5:33 AM'
