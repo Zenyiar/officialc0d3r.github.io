@@ -1,1 +1,8 @@
-## Forget what ive said in the past, this is were i'm going to host stuff like either my website or other files and stuff
+---
+description: Welcome to Aseltic's Guides!
+---
+
+# Welcome
+
+Welcome to my Gitbook page, where I have guides to many things! Mainly, a guide for my CSS Framework AselCSS!
+
