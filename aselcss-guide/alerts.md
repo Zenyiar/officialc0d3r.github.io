@@ -16,7 +16,7 @@ With other types to come!
 
 Simply create a alert by doing:
 
-```text
+```markup
 <div class="alert alert-danger">
     <span class="alert-close" onclick="this.parentElement.style.display='none';">&times;</span>
     <p>Uh oh. An error has occured!</p>

@@ -18,7 +18,7 @@ With other types to come!
 
 Simply create a button by doing
 
-```text
+```markup
 <button class="btn btn-primary">This is Primary!</button> 
 ```
 
