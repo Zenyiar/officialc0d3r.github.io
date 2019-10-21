@@ -22,5 +22,13 @@ Simply create a button by doing
 <button class="btn btn-primary">This is Primary!</button> 
 ```
 
-It will also work with some other elements, like the a element, the submit, and button input element!
+![](../.gitbook/assets/image%20%284%29.png)
+
+It will also work with some other elements, for examples:
+
+```markup
+<a class="btn btn-primary">Button</a>
+<input type="button" class="btn btn-primary>
+<input type="submit" class="btn btn-primary>
+```
 
