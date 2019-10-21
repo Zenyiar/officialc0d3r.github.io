@@ -17,9 +17,12 @@ Download SCSS, Minimized CSS, and JS from https://github.com/Aseltic/aselcss-my-
 
 ### v1.3 - October 20th, 2019 @ 11:13 PM
 
+#### **\(edited\)**
+
 * Added Notifications
 * Added some new stuff to \_variables.scss
 * Change alerts a bit, now they can close! \(Requires AselJS\)
+* Added AselJS for some of the features!
 * ~~Added Modals~~ Disabled for now for reasons.
 
 ### v1.2 - October 20th, 2019 @ 8:01 PM
