@@ -1,3 +1,9 @@
+---
+description: >-
+  Important: Make sure you have AselJS installed too or else, the alerts won't
+  close!
+---
+
 # Alerts
 
 There are a few types of alerts currently, and those are:
@@ -23,5 +29,5 @@ Simply create a alert by doing:
 </div>
 ```
 
-> _**Important: Make sure you have AselJS installed too or else, the alerts won't close!**_
+![](../.gitbook/assets/image%20%283%29.png)
 
