@@ -1,23 +1,26 @@
 # Buttons
 
-## Getting Super Powers
+## Getting Started With Buttons
 
-Becoming a super hero is a fairly straight forward process:
-
-```
-$ give me super-powers
-```
-
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
-
-Once you're strong enough, save the world:
+There are a few types of buttons currently, and those are:
 
 ```
-// Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
+btn btn-primary
+btn btn-secondary
+btn btn-success
+btn btn-warning
+btn btn-danger
 ```
 
+With other types to come!
 
+![This is what they look like currently.](../.gitbook/assets/image%20%281%29.png)
+
+Simply create a button by doing
+
+```text
+<button class="btn btn-primary">This is Primary!</button> 
+```
+
+It will also work with some other elements, like the a element, the submit, and button input element!
 
