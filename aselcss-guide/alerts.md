@@ -5,7 +5,7 @@ There are a few types of alerts currently, and those are:
 ```text
 alert alert-primary
 alert alert-secondary
-alert btn-success
+alert alert-success
 alert alert-warning
 alert alert-danger
 ```
