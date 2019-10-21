@@ -15,12 +15,17 @@ Download SCSS & Minimized CSS from https://github.com/Aseltic/aselcss-my-css-fra
 
 ## Changelogs
 
-### v1.1 - October 19th, 2019 @ 11:11
+### v1.2 - October 20th, 2019 @ 8:01 PM
+
+* Added Background Colors to Framework, use them by adding the class bg-\(primary, secondary, success, warning, or danger\)!
+* Also added Navbar colors with navbar-\(primary, secondary, success, warning, or danger\)!
+
+### v1.1 - October 19th, 2019 @ 11:11 PM
 
 * This Guide has been updated a bit.
 * Still no changes to the actual framework.
 
-### **v1.0** - October 19th, 2019 @ 11:08
+### **v1.0** - October 19th, 2019 @ 11:08 PM
 
 * First Commit & Semi-Release
 
