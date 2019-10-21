@@ -1,4 +1,4 @@
-# Buttons
+# Alerts
 
 There are a few types of alerts currently, and those are:
 

@@ -9,7 +9,7 @@
 * [Backgrounds](aselcss-guide/backgrounds.md)
 * [Buttons](aselcss-guide/buttons.md)
 * [Forms](aselcss-guide/forms.md)
-* [Buttons](aselcss-guide/alerts.md)
+* [Alerts](aselcss-guide/alerts.md)
 * [Lists](aselcss-guide/lists.md)
 * [Notifications](aselcss-guide/notifications.md)
 * [Modals](aselcss-guide/modals.md)
