@@ -29,6 +29,7 @@ It will also work with some other elements, for examples:
 ```markup
 <a class="btn btn-primary">Button</a>
 <input type="button" class="btn btn-primary">
+<input type="reset" class="btn btn-primary">
 <input type="submit" class="btn btn-primary">
 ```
 
