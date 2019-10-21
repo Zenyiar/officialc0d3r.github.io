@@ -1,23 +1,27 @@
-# Alerts
+# Buttons
 
-## Getting Super Powers
+There are a few types of alerts currently, and those are:
 
-Becoming a super hero is a fairly straight forward process:
-
-```
-$ give me super-powers
-```
-
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
-
-Once you're strong enough, save the world:
-
-```
-// Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
+```text
+alert alert-primary
+alert alert-secondary
+alert btn-success
+alert alert-warning
+alert alert-danger
 ```
 
+With other types to come!
 
+![This is what they currently look like.](../.gitbook/assets/image%20%282%29.png)
+
+Simply create a alert by doing:
+
+```text
+<div class="alert alert-danger">
+    <span class="alert-close" onclick="this.parentElement.style.display='none';">&times;</span>
+    <p>Uh oh. An error has occured!</p>
+</div>
+```
+
+> _**Important: Make sure you have AselJS installed too or else, the alerts won't close!**_
 

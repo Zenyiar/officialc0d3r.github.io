@@ -10,10 +10,17 @@ description: Getting Started With AselCSS
 
 ```text
 Hosting / Package Coming Soon!
-Download SCSS & Minimized CSS from https://github.com/Aseltic/aselcss-my-css-framework
+Download SCSS, Minimized CSS, and JS from https://github.com/Aseltic/aselcss-my-css-framework
 ```
 
 ## Changelogs
+
+### v1.3 - October 20th, 2019 @ 11:13 PM
+
+* Added Notifications
+* Added some new stuff to \_variables.scss
+* Change alerts a bit, now they can close! \(Requires AselJS\)
+* ~~Added Modals~~ Disabled for now for reasons.
 
 ### v1.2 - October 20th, 2019 @ 8:01 PM
 
