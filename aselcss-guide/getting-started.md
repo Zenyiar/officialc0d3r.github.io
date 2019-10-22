@@ -15,6 +15,13 @@ Download SCSS, Minimized CSS, and JS from https://github.com/Aseltic/aselcss-my-
 
 ## Changelogs
 
+### v1.4 - October - 21st, 2019 @ 11:04 PM
+
+* Added Header Styling's
+* Fixed Up Button Styling's
+* Added Footers
+* ~~Added Mobile Navigation~~ Just the  hamburger icon for now, no functionality.
+
 ### v1.3 - October 20th, 2019 @ 11:13 PM
 
 #### **\(edited\)**
