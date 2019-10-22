@@ -8,6 +8,7 @@
 * [Navbar \(Navigation Bar\)](aselcss-guide/navbar-navigation-bar.md)
 * [Backgrounds](aselcss-guide/backgrounds.md)
 * [Containers](aselcss-guide/containers.md)
+* [Headers](aselcss-guide/headers.md)
 * [Buttons](aselcss-guide/buttons.md)
 * [Forms](aselcss-guide/forms.md)
 * [Alerts](aselcss-guide/alerts.md)
