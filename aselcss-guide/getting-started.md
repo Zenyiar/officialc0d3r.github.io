@@ -21,7 +21,7 @@ Download SCSS, Minimized CSS, and JS from https://github.com/Aseltic/aselcss-my-
 * Fixed Up Button Styling's
 * Added Footers
 * Added info as color options such as bg-info, navbar-info, and footer-info, and other.
-* ~~Added Mobile Navigation~~ Just the  hamburger icon for now, no functionality.
+* ~~Added Mobile Navigation~~ Just the hamburger icon for now, no functionality.
 
 ### v1.3 - October 20th, 2019 @ 11:13 PM
 
