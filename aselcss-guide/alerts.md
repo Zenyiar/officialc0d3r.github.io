@@ -24,8 +24,8 @@ Simply create a alert by doing:
 
 ```markup
 <div class="alert alert-danger">
-    <span class="alert-close" onclick="this.parentElement.style.display='none';">&times;</span>
-    <p>Uh oh. An error has occured!</p>
+    <span class="alert-close">&times;</span>
+    <p>Uh oh. An error has occured!</p
 </div>
 ```
 
