@@ -2,5 +2,12 @@
     <channel>
         <title>Aseltic's Feed</title>
         <description>I'll post updates occasionally about my channel and what has been going on....</description>
+        <posts>
+            <post>
+                <title>Nano?</title>
+                <body>I found this cool youtuber that also teaches code, you should check out Nano Education on youtube!</body>
+                <timestamp>8:38 a.m. 12/17/2019</timestamp>
+            </post>
+        </posts>
     </channel>
 </rss>
