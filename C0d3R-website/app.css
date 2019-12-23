@@ -1,0 +1,10 @@
+.bg-primary {
+  background: linear-gradient(90deg, rgb(77, 80, 255), rgb(67, 70, 251));
+}
+nav {
+  min-height: 70px;
+}
+
+nav .nav-item {
+  margin: 0 0.2rem;
+}
