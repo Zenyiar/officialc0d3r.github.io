@@ -12,8 +12,8 @@ There are a few types of alerts currently, and those are:
 alert alert-primary
 alert alert-secondary
 alert alert-success
-alert alert-warning
 alert alert-danger
+alert alert-warning
 ```
 
 With other types to come!
@@ -25,9 +25,11 @@ Simply create a alert by doing:
 ```markup
 <div class="alert alert-danger">
     <span class="alert-close">&times;</span>
-    <p>Uh oh. An error has occured!</p
+    <p>Uh oh. An error has occured!</p>
 </div>
 ```
 
 ![](../.gitbook/assets/image%20%283%29.png)
+
+Tada!
 

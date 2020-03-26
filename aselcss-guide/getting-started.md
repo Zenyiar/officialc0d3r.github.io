@@ -15,6 +15,10 @@ Download SCSS, Minimized CSS, and JS from https://github.com/Aseltic/aselcss-my-
 
 ## Changelogs
 
+### v1.6 - March 26th, 2020 @ 7:51 AM
+
+* Sorry for the long break but I've cleaned up this page and updated a few things here, not in the css tho... I'll get back to work soon tho, so stay tuned!
+
 ### v1.5 - October 23rd, 2019 @ 9:44 PM
 
 * Small Changes in colors so you dont need to go through alerts and navbar and edit the colors manually if your making a theme, just change them in \_variables.scss
